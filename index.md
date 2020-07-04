@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+On my blog I will keep track of successes in programming and share the news with you!
